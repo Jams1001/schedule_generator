@@ -1,0 +1,17 @@
+bloque,sigla,horas_semanales,dias_semana,profesor,disponibilidad,aulas_disponibles
+3,lineales1,4,2,JDR,M:T,2
+4,lineales2,4,2,Gonzalo,N,3:2
+4,electro1,4,2,Carlos,T,1
+6,maquinas1,4,2,Fausto,M,2
+6,LabMaquinas,3,1,LuisDiego,N,2
+6,Compus1,5,2,Ericka,T,5
+5,Campo2,3,2,LuisDiego,M,6
+6,Labelectro2,4,1,Rosses,T:N,1
+4,Analisis,4,2,Joaquin,M,4
+5,electro2,5,2,Rosses,M,2
+8,Redes,5,2,Isaac,T:N,6
+7,Control,4,2,Helber,M,2
+8,Diseño,4,2,Fernando,N,4
+6,Respo,3,1,Yandell,N,1
+8,Micros,4,1,Villalta,M,5
+3,plataformas,6,2,Benavides,N,12
